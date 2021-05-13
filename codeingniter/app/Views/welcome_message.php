@@ -218,8 +218,8 @@
 	</div>
 
 	<div class="heroe">
-
-		<h1>Welcome to CodeIgniter <?= CodeIgniter\CodeIgniter::CI_VERSION ?></h1>
+		<h1>Daniel Sosa</h1>
+		<h1>bienvenidos a mi aplicacion hecha en codeingniter:  <?= CodeIgniter\CodeIgniter::CI_VERSION ?></h1>
 
 		<h2>The small framework with powerful features</h2>
 
