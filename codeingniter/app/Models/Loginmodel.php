@@ -1,7 +1,7 @@
-<? php
-espacio de nombres App\Models;
-usar CodeIgniter\Model;
-clase LoginModel extiende el modelo
+<?php 
+namespace App\Models;
+use CodeIgniter\Model;
+class LoginModel extends Model
 {
-        protegido $table = 'usuario';
+        protected $table = 'user';         
 }
